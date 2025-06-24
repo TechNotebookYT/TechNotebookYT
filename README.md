@@ -1,6 +1,6 @@
 ## Hi, I'm Pranav Bala
 
-[![YouTube](https://img.shields.io/badge/TechNotebook-YouTube-red?logo=youtube)](https://www.youtube.com/technotebook)
+[![Subscribe](https://img.shields.io/badge/Subscribe-on%20YouTube-red?logo=youtube\&style=for-the-badge)](https://www.youtube.com/technotebook)
 
 UIUC Computer Engineering student sharing concise tutorials and open‑source projects in AI, robotics, and home automation.
 
