@@ -8,7 +8,7 @@ UIUC Computer Engineering student sharing concise tutorials and open‑source pr
 
 ## 🔧 Skills
 
-Python · C/C++ · JavaScript · Django · ROS2 · React · Docker · Raspberry Pi
+Python · C/C++ · Django · ROS2 · Docker · Raspberry Pi · PyTorch · Linux
 
 ---
 
