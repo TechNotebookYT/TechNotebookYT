@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hi, I'm Pranav Bala
 
-<!--
-**TechNotebookYT/TechNotebookYT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![YouTube](https://img.shields.io/badge/TechNotebook-YouTube-red?logo=youtube)](https://www.youtube.com/technotebook)
 
-Here are some ideas to get you started:
+UIUC Computer Engineering student sharing concise tutorials and open‑source projects in AI, robotics, and home automation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔧 Skills
+
+Python · C/C++ · JavaScript · Django · ROS2 · React · Docker · Raspberry Pi
+
+---
+
+## 📫 Find Me Elsewhere
+* 🌐 [pranavbala.com](https://pranavbala.com)
+* 💼 [LinkedIn](https://linkedin.pranavbala.com)
