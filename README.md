@@ -8,7 +8,7 @@ UIUC Computer Engineering student sharing concise tutorials and open‑source pr
 
 ## 🔧 Currently Working On:
 
-- [🚀 Autonomous Lane-Following Robot Car](https://github.com/TechNotebookYT/Lane-Tracking-Robot-Car): ML pipeline for road lane identification and path prediction.
+- [🚀 Highway Lane Detection](https://github.com/TechNotebookYT/Highway-Lane-Detection): ML pipeline for highway lane identification and path prediction.
 
 
 ---
