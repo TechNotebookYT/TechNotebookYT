@@ -16,7 +16,7 @@ I share **helpful tutorials** and build **open-source projects** in AI, robotics
 </a>
 </td>
 <td width="50%">
-<h3>🚀 <a href="https://github.com/TechNotebookYT/Highway-Lane-Detection">Highway Lane Detection</a></h3>
+<h3><a href="https://github.com/TechNotebookYT/Highway-Lane-Detection">Highway Lane Detection</a> 🛣️ </h3>
 <p>Machine learning pipeline for detecting highway lanes and predicting vehicle path in real-time.</p>
 </td>
 </tr>
@@ -24,29 +24,44 @@ I share **helpful tutorials** and build **open-source projects** in AI, robotics
 
 ---
 
+## Projects I've Built
+<table>
+<tr>
+<td width="30%">
+<a href="https://github.com/TechNotebookYT/stm32_sentry">
+<img src="https://github.com/TechNotebookYT/stm32_sentry/blob/main/docs/img/full_demo.jpg?raw=true" alt="Sentry Demo" width="100%">
+</a>
+</td>
+<td width="50%">
+<h3>🛡️ <a href="https://github.com/TechNotebookYT/stm32_sentry">STM32 Sentry</a></h3>
+<p>An event-driven STM32-based sentry system utilizing a bare-metal Finite State Machine and hardware interrupts to integrate LiDAR-based spatial mapping with real-time PIR motion detection.</p>
+</td>
+</tr>
+
+
+<tr>
+<td width="30%">
+<a href="https://github.com/TechNotebookYT/Lane-Tracking-Robot-Car">
+<img src="https://github.com/TechNotebookYT/Lane-Tracking-Robot-Car/blob/master/assets/site.jpg?raw=true" alt="Car" width="100%">
+</a>
+</td>
+<td width="50%">
+<h3>🚗 <a href="https://github.com/TechNotebookYT/Lane-Tracking-Robot-Car">Raspberry Pi Lane Tracking Robot Car</a></h3>
+<p>An autonomous vision-based robot utilizing a Raspberry Pi and OpenCV to implement real-time PID steering control and lane-centroid tracking.</p>
+</td>
+</tr>
+</table>
+
+---
+
 ## 🛠 Tech Stack  
-<p>
-  <!-- Programming Languages -->
-  <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bash-121011?logo=gnu-bash&logoColor=white" />
+<p> <img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=blue" /> <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white" /> <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white" /> <img src="https://img.shields.io/badge/Bash-4EAA25?logo=gnu-bash&logoColor=white" /> <img src="https://img.shields.io/badge/Assembly%20(RISC--V)-67217A?logo=riscv&logoColor=white" />
 
-  <!-- Frameworks & Tools -->
-  <img src="https://img.shields.io/badge/ROS-22314E?logo=ros&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind%20CSS-38B2AC?logo=tailwind-css&logoColor=white" />
+<img src="https://img.shields.io/badge/STM32-03234B?logo=stmicroelectronics&logoColor=white" /> <img src="https://img.shields.io/badge/RTOS-00A4EF?logo=free-rtos&logoColor=white" /> <img src="https://img.shields.io/badge/KiCad-31409E?logo=kicad&logoColor=white" /> <img src="https://img.shields.io/badge/Raspberry%20Pi-C51A4A?logo=raspberry-pi&logoColor=white" /> <img src="https://img.shields.io/badge/Linux%20Kernel-FCC624?logo=linux&logoColor=black" /> <img src="https://img.shields.io/badge/PCB%20Design-4CAF50?logo=autodesk-eagle&logoColor=white" />
 
-  <!-- Hardware Skills -->
-  <img src="https://img.shields.io/badge/Microcontrollers-00979D?logo=arduino&logoColor=white" />
-  <img src="https://img.shields.io/badge/3D%20Modeling-FF6F00?logo=autodesk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Circuit%20Design-4CAF50?logo=electrical-engineering&logoColor=white" />
-</p>
+<img src="https://img.shields.io/badge/ROS2-22314E?logo=ros&logoColor=white" /> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white" /> <img src="https://img.shields.io/badge/MQTT-660066?logo=mqtt&logoColor=white" /> <img src="https://img.shields.io/badge/Home%20Assistant-41BDF5?logo=home-assistant&logoColor=white" /> <img src="https://img.shields.io/badge/Klipper-E32C2D?logo=klipper&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/STM32CubeIDE-03234B?logo=stmicroelectronics&logoColor=white" /> </p>
 
 ---
 
