@@ -16,7 +16,7 @@ I share **helpful tutorials** and build **open-source projects** in AI, robotics
 </a>
 </td>
 <td width="50%">
-<h3><a href="https://github.com/TechNotebookYT/Highway-Lane-Detection">Highway Lane Detection</a> 🛣️ </h3>
+<h3><a href="https://github.com/TechNotebookYT/Highway-Lane-Detection">Highway Lane Detection</a></h3>
 <p>Machine learning pipeline for detecting highway lanes and predicting vehicle path in real-time.</p>
 </td>
 </tr>
